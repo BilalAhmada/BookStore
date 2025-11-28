@@ -37,7 +37,7 @@ const Banner = () => {
               <div className="validator-hint hidden">
                 Enter valid email address
               </div>
-              <button className="btn m-3 btn-secondary">Secondary</button>
+              <button className="btn m-3 btn-secondary">Get Started</button>
             </div>
           </div>
         </div>
